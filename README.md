@@ -1,4 +1,4 @@
-# Cashier Register System
+# Cashier Register System   [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G01P76LD)
 
 A complete and highly customizable cashier system for QBCore/QBX servers using ox_lib and ox_target.
 
@@ -169,3 +169,4 @@ end)
 
 - Developed by Ferp.Dev
 - Uses ox_lib and ox_target by overextended.dev
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G01P76LD)
